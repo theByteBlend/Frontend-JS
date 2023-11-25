@@ -29,4 +29,4 @@ let months = ["Jan", "Feb", "Sun", "Mon"];
 //  3. How to remove and add array elements with splice()
     let days2 = months.splice(4, 1, "May", "Jun");
     console.log('days2', days2);
-    console.log('months', months);
+    console.log('months', months);  
